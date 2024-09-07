@@ -1,1 +1,8 @@
-/*# sourceMappingURL=index.css.map */
+@font-face {
+  font-family: "inter-bold";
+  src: url(../);
+}
+@font-face {
+  font-family: "merri";
+  src: url(../fonts/Merriweather-light.ttf);
+}/*# sourceMappingURL=index.css.map */

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "inter-bold";
+    src: url(../fonts/Inter_28ptt-Extrabold.ttf);
+}
+
+@font-face {
+    font-family: "merri";
+    src: url(../fonts/Merriweather-light.ttf);
+}
+
+$font1: inter-bold, sans-serif;
+$font2: merri, serif;
