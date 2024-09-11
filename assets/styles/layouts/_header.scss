@@ -96,11 +96,16 @@ header {
             max-width: 300px;
             justify-content: space-around;
             margin-right: 10px;
-        }
 
-        li {
-            
+            li {
+                transition: 0.15s;
+                cursor: pointer;
+
+                &:hover {
+                    transform: scale(1.3);
+
+                }
+            }
         }
-    
     }
 }
